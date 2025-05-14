@@ -9,7 +9,7 @@ jobs:
     env:
       DB_DATABASE: salesDB
       DB_USER: root
-      DB_PASSWORD: root
+      DB_PASSWORD: CvPs@ED5+yEqVq7
 
     steps:
       - name: Checkout code
